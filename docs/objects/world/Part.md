@@ -58,7 +58,7 @@ Adds a torque to the part relative to its own rotation.
 
 ### Anchored:bool { property }
 
-Specifies whether the part is to be affected by physics or not.
+Specifies whether the part is attached to its first part ancestor or :polytoria-Environment: Environment if none are found.
 
 ### AngularDrag:float { property }
 
