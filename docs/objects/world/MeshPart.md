@@ -42,7 +42,7 @@ Returns the names of the animations associated with the mesh.
 
 ### Anchored:bool { property }
 
-Specifies whether the part is to be affected by physics or not.
+Specifies whether the part is attached to its first part ancestor or :polytoria-Environment: Environment if none are found.
 
 ### AngularVelocity:Vector3 = Vector3.New(0, 0, 0) { property }
 
