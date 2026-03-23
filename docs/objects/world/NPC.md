@@ -74,7 +74,7 @@ Drops the tool currently equipped on the NPC.
 
 ### Anchored:bool { property }
 
-Determines whether the NPC is affected by physics or not.
+Determines whether the NPC is attached to its first part ancestor or :polytoria-Environment: Environment if none are found.
 
 ### FaceID:int { property }
 
