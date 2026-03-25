@@ -92,10 +92,6 @@ Determines Drag (air resistance) of this part.
 
 Determines the amount of friction between the part and players on it.
 
-### Forward:Vector3 { property }
-
-Returns the forward vector of the part
-
 ### HideStuds:bool { property }
 
 Determines whether to display studs on the part or not.
