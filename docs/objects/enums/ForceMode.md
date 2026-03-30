@@ -6,7 +6,7 @@ icon: polytoria/Enum
 
 | Name             |
 | ---------------- |
-| `Force`          |
-| `Acceleration`   |
-| `Impulse`        |
-| `VelocityChange` |
+| `ForceMode.Force`          |
+| `ForceMode.Acceleration`   |
+| `ForceMode.Impulse`        |
+| `ForceMode.VelocityChange` |
